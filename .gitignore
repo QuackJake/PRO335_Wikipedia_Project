@@ -1,0 +1,9 @@
+.venv/
+
+wikipedia_dumps/
+wikipedia_dumps/enwiki-latest-pages-articles.xml
+
+csv_files/
+csv_files/actors.csv
+csv_files/actresses.csv
+csv_files/movies.csv
